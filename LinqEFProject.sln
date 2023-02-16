@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqEFProject", "LinqEFProject\LinqEFProject.csproj", "{36BE4664-F105-443B-816D-FAAEEDB2056E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36BE4664-F105-443B-816D-FAAEEDB2056E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BE4664-F105-443B-816D-FAAEEDB2056E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BE4664-F105-443B-816D-FAAEEDB2056E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BE4664-F105-443B-816D-FAAEEDB2056E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D4BD9DE-C8FC-4C0E-9446-E5EA61D8414F}
+	EndGlobalSection
+EndGlobal
